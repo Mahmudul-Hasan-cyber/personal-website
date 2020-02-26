@@ -1,0 +1,155 @@
+body {
+    font-family: Poppins;
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;  
+}
+.container{
+    width: 1140px;
+    margin:auto;
+}
+img{
+    width: 100%;
+}
+h1{
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+h2{
+    font-family: arial;
+}
+h2 span{
+    font-size: 50px;
+    font-weight: 900;
+}
+h3{
+    font-size: 30px;
+    color: #6d6868;
+}
+p{
+    color: dimgray;
+    font-size: 18px;
+}
+section{
+    padding-bottom:150px;
+}
+
+#top-part{
+    background-image: url("images/header-bg.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 100%;
+}
+.orange-hightlight{
+    color:orange;
+}
+.left-about {
+    width: 550px;
+    float: left;
+}
+
+.right-image {
+    width: 550px;
+    float: right;
+}
+.button{
+    background-image: linear-gradient(to right,yellow,red);
+    color: white;
+    padding: 7px 18px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.left-image {
+    width: 550px;
+    float: left;
+}
+
+.right-content {
+    width: 550px;
+    float: right;
+    padding-top:200px;
+}
+#dream-area{
+    background-image: url("images/biography-bg.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 100%;
+    
+}
+
+#work-area{
+background-image:url("images/latest-work-bg.png");
+background-repeat:no-repeat;
+margin:40px 0px;
+
+
+}
+#work-area h2{
+    text-align: center;
+}
+div .image-work{
+width: 30%;
+float:left;
+margin-left:3%;
+}
+
+#footer{
+    background-image:  url("images/footer-bg.png");
+    padding: 50px 0px;
+}
+.footer-conlent {
+    text-align: center;
+    padding: 60px 0px;
+}
+.footer-conlent h1{
+    padding-bottom:50px;
+}
+
+.footer-conlent .company-md h3 {
+    margin:0px;
+    padding:0px;
+    font-size:20px;
+    color:#110e0e
+    
+}
+.footer-conlent .company-md span {
+    font-size: 15px;
+    color: lightgray;
+}
+
+#footer p {
+    width: 427px;
+    margin: auto;
+}
+
+
+.message-box {
+    background-image: linear-gradient(to right,cyan,blue);
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.message-box h1 {
+    font-size: 22px;
+}
+
+.message-box p {
+    color: white;
+    font-size: 15px;
+}
+footer{
+    background: #726f6f;
+    padding: 5px 0px
+}
+footer p {
+    color: #ccc5c5;
+    text-align: center;
+}
+
